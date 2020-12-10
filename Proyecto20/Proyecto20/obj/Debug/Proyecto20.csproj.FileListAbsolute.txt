@@ -1,0 +1,22 @@
+C:\tp4\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe.config
+C:\tp4\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe
+C:\tp4\Proyecto20\Proyecto20\bin\Debug\Proyecto20.pdb
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csprojAssemblyReference.cache
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Form1.resources
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Properties.Resources.resources
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.GenerateResource.cache
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.CoreCompileInputs.cache
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.exe
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.pdb
+C:\tp4\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Form2.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\bin\Debug\Proyecto20.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Form2.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto20\Proyecto20\obj\Debug\Proyecto20.pdb
